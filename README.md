@@ -10,13 +10,13 @@ Un projet super intéressant, très constructif, qui m'a permis d'utiliser mes c
 ## Captures d'écran 📸
 
 ### Page d'acceuil :
-![acceuil]![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/42afdd7c-c5ea-4d09-9bce-c5aecde4c3ff)
+![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/42afdd7c-c5ea-4d09-9bce-c5aecde4c3ff)
 
 ### Animation de la page d'acceuil :
-![AnimationAcceuil]![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/bc388349-4400-4c9d-8a71-98df7623c00c)
+![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/bc388349-4400-4c9d-8a71-98df7623c00c)
 
 ### Animation de l'homme:
-![AnimationHome]![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/f8122a3e-7550-44e1-a886-43b039dd72d6)
+![image](https://github.com/Alexous-O/Cartoon-Fish/assets/93724205/f8122a3e-7550-44e1-a886-43b039dd72d6)
 
 
 ## Usage
