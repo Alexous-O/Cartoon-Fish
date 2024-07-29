@@ -22,13 +22,13 @@ A super interesting, very constructive project, which allowed me to use my perso
 
 1.Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
-    ```bash
+    ```
     git clone https://github.com/Alexous-O/Cartoon-Fish.git
     ```
 
 2.Open the Cartoon-Fish folder and choose the desired files
    
-    ```bash
+    ```
     open Cartoon-Fish
     ```
 3. Enjoy !
